@@ -12,7 +12,7 @@
 - 🌱 Currently learning and building with **HTML, CSS, JavaScript & Python**
 - 💡 Passionate about turning ideas into clean, interactive digital products
 - 🔭 Working on real-world projects to grow my portfolio
-- 📫 Reach me at: **lindokuhle@email.com**
+- 📫 Reach me at: **manciyalindokuhle30@email.com**
 - ⚡ Fun fact: I designed and coded my own portfolio from scratch!
 
 ---
